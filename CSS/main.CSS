@@ -1,0 +1,59 @@
+	@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Rubik+Dirt&display=swap');	
+	@font-face{
+			font-family:"Usually";
+			src: url('../font/U.otf');
+			font-weight: normal;
+			font-style: normal ;
+		}
+        body{
+            margin:0px ;
+            font-size: 52px;
+            font-family: 'Rubik Microbe', cursive;
+            background-color:#393A5A
+ ;
+        }
+         p{
+         	font-size: 28px;
+         	font-family: 'Rubik Dirt', cursive;
+         	 background-color:#ADA9BA
+;
+         }
+	 h1{ 
+         	
+         	color:#22222E
+ ;
+         }
+         span{
+         	font-family:"Usually";
+         }
+        div{
+        	width: 82%;
+        	margin: auto ;
+            background-color:#706F8E;
+            padding:20px ;
+            
+            
+
+                 }
+                 img{
+                 	max-width: 100%;
+                    height: auto;
+                    display:block ;
+
+
+                 }
+                 a{
+                 	text-decoration: none;
+                 	color:#1e0039 ;
+                 	font-size: 30px;
+                    display: block;
+                    margin: 20px 0;
+                 }
+                 a:hover{
+                    text-decoration:underline ;
+                    color: #1e0039;
+                    background-color:#ADA9BA ;
+                 }
+
+li{list-style-type: circle;
+}
